@@ -10,9 +10,8 @@
     📊GitHub Stats
 </h2>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimichu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""> 
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 </p>

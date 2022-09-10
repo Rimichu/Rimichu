@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""> 
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimichu)](https://github.com/anuraghazra/github-readme-stats)
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 </p>

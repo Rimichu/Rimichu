@@ -5,6 +5,9 @@
 <p align="center">
     I'm <b>Rimvydas</b> ~ A student developer who is very interested in mathematics, technology and anything to do with <b>VR</b> or <b>AR</b>!
 </p>
+<p align="center">
+    I'm currently studying Software Engineering at Lancaster University!
+</p>
 
 <h2 align="center">
     📊GitHub Stats

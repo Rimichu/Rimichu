@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&amp;logo=C sharp&amp;logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&amp;logo=Unity&amp;logoColor=white" alt="Unity">
+    <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
 </p>
 
 <h2 align="center">

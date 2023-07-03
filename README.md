@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&amp;logo=C sharp&amp;logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&amp;logo=Unity&amp;logoColor=white" alt="Unity">
     <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/mipsasm-red?style=for-the-badge&amp;logo=mipsasm&amp;logoColor=white" alt="MIPS">
 </p>
 
 <h2 align="center">

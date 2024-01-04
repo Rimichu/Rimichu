@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown">
-    <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&amp;logo=p5.js&amp;logoColor=FFFFFF" alt="p5js"> 
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy"> 
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly">     
+    <!--<img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&amp;logo=p5.js&amp;logoColor=FFFFFF" alt="p5js">-->
+    <!--<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy">--> 
+    <!--<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white" alt="Plotly">-->     
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&amp;logo=C sharp&amp;logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&amp;logo=Unity&amp;logoColor=white" alt="Unity">
@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/mipsasm-red?style=for-the-badge&amp;logo=mipsasm&amp;logoColor=white" alt="MIPS">
+    <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="MIPS">
 </p>
 
 <h2 align="center">

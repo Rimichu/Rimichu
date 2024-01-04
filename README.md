@@ -16,10 +16,11 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""> 
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
-<br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimichu&hide_progress=true&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
+<br>   
+<!--<br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rimichu" alt="">
-<br>
+<br>-->
     <a href="https://wakatime.com/@b9c00289-2be0-48ce-81c5-1af358c056de"><img src="https://wakatime.com/badge/user/b9c00289-2be0-48ce-81c5-1af358c056de.svg" alt="Total time coded since Dec 19 2021" /></a>
 </p>
 

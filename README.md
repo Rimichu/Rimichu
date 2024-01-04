@@ -14,8 +14,8 @@
 </h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""> 
-<br>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=Rimichu&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt=""> 
+<br>-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimichu&hide_progress=true&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 <br>   
 <!--<br>
